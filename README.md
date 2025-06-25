@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23025
-Fork on GitHub
-7736
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Priyansh</h1>
 <h3 align="center">Backend Developer | Java Enthusiast | Building Scalable APIs with Spring Boot</h3>
@@ -33,7 +18,7 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyansh awasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyansh awasthi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyansh-awasthi-9328aa339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyansh awasthi" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshawasthiii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshawasthiii._" height="30" width="40" /></a>
 </p>
 
